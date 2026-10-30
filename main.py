@@ -1,5 +1,5 @@
 def calculate():
-    result = 10
-    print("Original result:", result)
+    result = 20
+    print("Main result:", result)
 
 calculate()
